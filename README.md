@@ -1,14 +1,15 @@
-# DOCJT Exam 2 Quest V2 Polished
+# DOCJT Exam 2 Quest V2.1 Stable Cleanup
 
-Single-file GitHub Pages build.
+Upload only `index.html`.
 
-What changed:
-- Cleaner home page with less clutter
-- Practice and games remain the main focus
-- Custom illustrated scenes for each game mode
-- Different visual character set for each game mode
-- Single-player only
-- All existing question content preserved from V1
+This version is built from the stable V1 game/test engine, not the broken V2 rewrite.
 
-Upload only `index.html` to your GitHub Pages repo root.
-Use a cache buster after upload, for example `?v=2`.
+Fixes:
+- Reverts to the stable V1 functionality.
+- Cleans the front page so it only shows the main choices.
+- Keeps Practice Test and Games as the focus.
+- Keeps all 172 questions.
+- Keeps the working V1 game engine.
+- Gives each game a clearer visual card without changing the engine.
+
+Open with `?v=21` after upload.
