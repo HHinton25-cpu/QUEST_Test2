@@ -1,16 +1,15 @@
-# JCSO Quest: Test 2 V2.9 Clean Vector Logo
+# JCSO Quest: Test 2 V2.10 Original Logo Light Theme
 
 Upload only `index.html`.
 
-This version fixes the fuzzy logo issue by removing the PNG wordmark completely.
+This version goes back to the original JCSO Quest logo instead of inventing a new one.
 
 Changes:
-- Replaces the fuzzy PNG wordmark with a clean inline SVG-style logo.
-- No PNG wordmark or white halo is used.
-- Visible brand locations use the clean vector logo.
-- Test 2 remains as a simple pill label.
-- Adjusts the color palette to match the vector logo.
+- Restores the original JCSO Quest logo/wordmark from the provided assets.
+- Changes the site to a light/white theme so the logo blends cleanly.
+- Removes the dark-background logo clash.
+- Does not place unrelated assets around the site.
 - Keeps V2.7 legal prompt fixes.
 - Keeps the compact game layout and stable engines.
 
-Open with `?v=29`.
+Open with `?v=210`.
