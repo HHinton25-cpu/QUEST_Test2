@@ -1,13 +1,16 @@
-# JCSO Quest: Test 2 V2.8 Logo Integration
+# JCSO Quest: Test 2 V2.9 Clean Vector Logo
 
 Upload only `index.html`.
 
-Changes:
-- Uses the Quest wordmark logo anywhere the visible brand would say JCSO Quest.
-- Keeps Test 2 as the text label beside the logo.
-- Adjusts site colors to blend with the Quest logo.
-- Does not add unrelated decorative assets.
-- Keeps V2.7 legal prompt fixes.
-- Keeps compact game layout and stable engines.
+This version fixes the fuzzy logo issue by removing the PNG wordmark completely.
 
-Open with `?v=28`.
+Changes:
+- Replaces the fuzzy PNG wordmark with a clean inline SVG-style logo.
+- No PNG wordmark or white halo is used.
+- Visible brand locations use the clean vector logo.
+- Test 2 remains as a simple pill label.
+- Adjusts the color palette to match the vector logo.
+- Keeps V2.7 legal prompt fixes.
+- Keeps the compact game layout and stable engines.
+
+Open with `?v=29`.
