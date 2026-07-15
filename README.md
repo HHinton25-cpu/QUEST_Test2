@@ -1,21 +1,16 @@
-# DOCJT Exam 2 Quest V2.2 Curriculum + Law Manual
+# JCSO Quest: Test 2 V2.5 Quest Asset Rebrand
 
 Upload only `index.html`.
 
-Built from stable V2.1.
+Built from the stable V2.4 file and the uploaded JCSO Quest asset pack.
 
-Adds:
-- Today's lessons added to the question bank:
-  - PC & Warrants / No-Knock Warrants
-  - Vehicle Offenses
-  - Burglary & Related Offenses
-- Kentucky Law Manual Mode:
-  - untimed
-  - open-manual lookup prompts
-  - statute-finding and application practice
-- Games patched:
-  - each game now shows a different arena style
-  - different characters/objects are visible by mode
-  - existing working game engine preserved
+Changes:
+- Full visual rebrand to JCSO Quest style
+- Uses the uploaded JCSO Quest logo/wordmark
+- Uses Quest mode graphics for Practice, Law Lookup, Games, and Progress cards
+- Uses Quest game-mode assets for Patrol Shift, Power Battle, Gold Rush Vault, and Code 3 Rush
+- Adds Quest character assets into the game screen
+- Keeps the stable practice, law lookup, and game engines intact
+- Remains single-file; no asset folder required
 
-Open with `?v=22` after upload.
+Open with `?v=25` after upload.
