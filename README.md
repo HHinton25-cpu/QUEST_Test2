@@ -1,15 +1,21 @@
-# DOCJT Exam 2 Quest V2.1 Stable Cleanup
+# DOCJT Exam 2 Quest V2.2 Curriculum + Law Manual
 
 Upload only `index.html`.
 
-This version is built from the stable V1 game/test engine, not the broken V2 rewrite.
+Built from stable V2.1.
 
-Fixes:
-- Reverts to the stable V1 functionality.
-- Cleans the front page so it only shows the main choices.
-- Keeps Practice Test and Games as the focus.
-- Keeps all 172 questions.
-- Keeps the working V1 game engine.
-- Gives each game a clearer visual card without changing the engine.
+Adds:
+- Today's lessons added to the question bank:
+  - PC & Warrants / No-Knock Warrants
+  - Vehicle Offenses
+  - Burglary & Related Offenses
+- Kentucky Law Manual Mode:
+  - untimed
+  - open-manual lookup prompts
+  - statute-finding and application practice
+- Games patched:
+  - each game now shows a different arena style
+  - different characters/objects are visible by mode
+  - existing working game engine preserved
 
-Open with `?v=21` after upload.
+Open with `?v=22` after upload.
