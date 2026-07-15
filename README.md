@@ -1,16 +1,13 @@
-# JCSO Quest: Test 2 V2.6 Clean Rebrand
+# JCSO Quest: Test 2 V2.8 Logo Integration
 
 Upload only `index.html`.
 
-This version corrects the V2.5 direction. It is built from the stable V2.4 file, not from the over-asseted V2.5 file.
-
 Changes:
-- Keeps the JCSO Quest: Test 2 rebrand.
-- Uses only a small Quest icon / favicon treatment.
-- Removes mismatched decorative assets from the home page and game cards.
-- Keeps the clean, functional layout.
-- Keeps typed Law Lookup as the standard legal section.
-- Keeps the compact game layout that fits desktop and mobile.
-- Keeps Practice, Law Lookup, Games, and Progress engines intact.
+- Uses the Quest wordmark logo anywhere the visible brand would say JCSO Quest.
+- Keeps Test 2 as the text label beside the logo.
+- Adjusts site colors to blend with the Quest logo.
+- Does not add unrelated decorative assets.
+- Keeps V2.7 legal prompt fixes.
+- Keeps compact game layout and stable engines.
 
-Open with `?v=26`.
+Open with `?v=28`.
