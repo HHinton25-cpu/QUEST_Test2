@@ -1,23 +1,21 @@
-# JCSO Quest: Test 2 V2.11 New Objectives
+# JCSO Quest: Test 2 V2.12 Question Wording Cleanup
 
 Upload only `index.html`.
 
-Built from V2.10 Original Logo Light Theme.
+Built from V2.11.
 
-Updates:
-- Adds newest Test 2 lessons from the uploaded objective-based notes.
-- Adds 114 new objective-aligned questions.
-- Question bank increases from 216 to 330 questions.
-- New categories:
-  - Interrogation Law
-  - Effective Communications
-  - Interviews
-  - Interrogations
-  - Search & Seizure Analysis
-- Law Lookup increases from 88 to 90 prompts.
-- Adds KRS lookup prompts for juvenile custody rights and juvenile fixed/stationary-object restraint rules.
-- Keeps the original JCSO Quest logo/light theme.
-- Keeps the V2.7 legal prompt wording fix.
-- Keeps compact game layout and stable engines.
+Changes:
+- Cleans awkward question wording across the bank.
+- Removes source-reference phrases from prompts such as:
+  - from the notes
+  - from the lesson
+  - according to the lesson
+  - listed in the lesson
+- Fixes the example prompt:
+  - Old: Which is a distraction warning from the officer safety notes?
+  - New: Which is a distraction warning?
+- Keeps the 330-question bank.
+- Keeps the V2.11 new objective content.
+- Keeps the original logo/light theme, typed Law Lookup, and compact games layout.
 
-Open with `?v=211`.
+Open with `?v=212`.
