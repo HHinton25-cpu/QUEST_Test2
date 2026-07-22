@@ -1,15 +1,23 @@
-# JCSO Quest: Test 2 V2.10 Original Logo Light Theme
+# JCSO Quest: Test 2 V2.11 New Objectives
 
 Upload only `index.html`.
 
-This version goes back to the original JCSO Quest logo instead of inventing a new one.
+Built from V2.10 Original Logo Light Theme.
 
-Changes:
-- Restores the original JCSO Quest logo/wordmark from the provided assets.
-- Changes the site to a light/white theme so the logo blends cleanly.
-- Removes the dark-background logo clash.
-- Does not place unrelated assets around the site.
-- Keeps V2.7 legal prompt fixes.
-- Keeps the compact game layout and stable engines.
+Updates:
+- Adds newest Test 2 lessons from the uploaded objective-based notes.
+- Adds 114 new objective-aligned questions.
+- Question bank increases from 216 to 330 questions.
+- New categories:
+  - Interrogation Law
+  - Effective Communications
+  - Interviews
+  - Interrogations
+  - Search & Seizure Analysis
+- Law Lookup increases from 88 to 90 prompts.
+- Adds KRS lookup prompts for juvenile custody rights and juvenile fixed/stationary-object restraint rules.
+- Keeps the original JCSO Quest logo/light theme.
+- Keeps the V2.7 legal prompt wording fix.
+- Keeps compact game layout and stable engines.
 
-Open with `?v=210`.
+Open with `?v=211`.
